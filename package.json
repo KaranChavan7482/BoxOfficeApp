@@ -2,7 +2,7 @@
   "name": "box-office",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KaranChavan7482.github.io/Box-Office-App",
+  "homepage": "https://KaranChavan7482.github.io/BoxOfficeApp",
   "dependencies": {
     "gh-pages": "^6.0.0",
     "react": "^18.2.0",
